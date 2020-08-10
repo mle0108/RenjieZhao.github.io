@@ -18,5 +18,5 @@ News:
 * 05/2020. SIGCOMM'20 paper: NFC+ long range magnetic RFID that defeats blockage.
 * 11/2019. MobiCom'20 paper: MCube low cost Millimeter-Wave Massive MIMO Software Radio.
 * 10/2019. MobiCom'19 talk: Give the presentation for OFDMA backscatter.
-* 10/2018. MobiCom'19 paper: OFDMA-backscatter high concurrent for backscattering technique.
+* 10/2018. MobiCom'19 paper: OFDMA-backscatter high concurrency technique for backscattering.
 * 09/2018. Begin to pursue Ph.D. at UC San Diego with Prof. Xinyu Zhang.
