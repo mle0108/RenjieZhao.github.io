@@ -15,6 +15,8 @@ I received my B.S degree from [Shanghai Jiao Tong University](http://en.sjtu.edu
 
 News:
 ======
+* 09/2020. M-Cube receives Best Paper Award of [MobiCom'20](https://sigmobile.org/mobicom/2020/) !
+* 09/2020. MobiCom'20 paper & demo: Give the presentation and demo for M-Cube.
 * 09/2020. We are working on distributing M-Cube platforms to other research groups. Please visit [M-Cube website](http://m3.ucsd.edu/sdr/) for more details.
 * 08/2020. SIGCOMM'20 talk: Give the presentation for NFC+. The first virtual event. 
 * 05/2020. SIGCOMM'20 paper: NFC+ long range magnetic RFID that defeats blockage.
