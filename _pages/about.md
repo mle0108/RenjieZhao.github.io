@@ -16,7 +16,7 @@ I received my B.S degree from [Shanghai Jiao Tong University](http://en.sjtu.edu
 News:
 ======
 * 09/2020. M-Cube receives Best Paper Award of [MobiCom'20](https://sigmobile.org/mobicom/2020/) !
-* 09/2020. MobiCom'20 paper & demo: Give the presentation and demo for M-Cube.
+* 09/2020. MobiCom'20 paper & demo: Give the presentation and demo for M-Cube. 
 * 09/2020. We are working on distributing M-Cube platforms to other research groups. Please visit [M-Cube website](http://m3.ucsd.edu/sdr/) for more details.
 * 08/2020. SIGCOMM'20 talk: Give the presentation for NFC+. The first virtual event. 
 * 05/2020. SIGCOMM'20 paper: NFC+ long range magnetic RFID that defeats blockage.
@@ -24,3 +24,23 @@ News:
 * 10/2019. MobiCom'19 talk: Give the presentation for OFDMA backscatter. The first attended conference. Los Cabos is a pretty nice place and have met with many outstanding researchers.
 * 10/2018. MobiCom'19 paper: OFDMA-backscatter high concurrency technique for backscattering. During undergraduate.
 * 09/2018. Begin to pursue Ph.D. at UC San Diego with Prof. Xinyu Zhang.
+
+Publications:
+======
+* **NFC+: Breaking NFC Networking Limits through Resonance Engineering**
+**Renjie Zhao***, Purui Wang*, Yunfei Ma, Pengyu Zhang, Hongqiang Harry Liu, Xianshang Lin, Xinyu Zhang, Chenren Xu and Ming Zhang
+Annual conference of the ACM Special Interest Group on Data Communication on the applications, technologies, architectures, and protocols for computer communication (**SIGCOMM**), 2020
+(54 out of 250 submissions, acceptance ratio: 22%)
+[ Full Paper: [PDF](https://renjiezhao.github.io/files/NFCplus_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/NFCplus_slides_20min.pptx) ] [ [20 min Video](https://dl.acm.org/doi/abs/10.1145/3387514.3406219) ]
+
+* **M-Cube: A Millimeter-Wave Massive MIMO Software Radio**
+**Renjie Zhao**, TimothyWoodford, TengWei, Kun Qian and Xinyu Zhang
+ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2020
+(62 out of 384 submissions, acceptance ratio: 16%, **Best Paper Award**)
+[ Full Paper: [PDF](https://renjiezhao.github.io/files/MCube_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/MCube_slides_20min.pptx) ] [ [20 min Video](https://www.youtube.com/watch?v=NRooJM1UK3s&feature=youtu.be) ]
+
+* **OFDMA-EnabledWi-Fi Backscatter**
+**Renjie Zhao**, Fengyuan Zhu, Siyuan Peng, Yuda Feng, Xiaohua Tian, Hui Yu and Xinbing Wang
+ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2019
+(55 out of 290 submissions, acceptance ratio: 19%)
+[ Full Paper: [PDF](https://renjiezhao.github.io/files/OFDMA_BS_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/OFDMA_BS_slides.pptx) ] [ [20 min Video](https://www.youtube.com/watch?v=UsyeI3U1bqo) ]
