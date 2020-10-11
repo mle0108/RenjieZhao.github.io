@@ -45,3 +45,7 @@ ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2
 ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2019  
 (55 out of 290 submissions, acceptance ratio: 19%)  
 [ Full Paper: [PDF](https://renjiezhao.github.io/files/OFDMA_BS_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/OFDMA_BS_slides.pptx) ] [ Video: [Link](https://www.youtube.com/watch?v=UsyeI3U1bqo) ]
+
+CV:
+======
+* [CV.pdf](https://renjiezhao.github.io/files/CV.pdf) (Last updated: 10/2020)
