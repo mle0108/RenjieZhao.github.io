@@ -28,6 +28,7 @@ News:
 Publications:
 ======
 * **NFC+: Breaking NFC Networking Limits through Resonance Engineering**
+
 **Renjie Zhao***, Purui Wang*, Yunfei Ma, Pengyu Zhang, Hongqiang Harry Liu, Xianshang Lin, Xinyu Zhang, Chenren Xu and Ming Zhang
 
 Annual conference of the ACM Special Interest Group on Data Communication on the applications, technologies, architectures, and protocols for computer communication (**SIGCOMM**), 2020
@@ -37,6 +38,7 @@ Annual conference of the ACM Special Interest Group on Data Communication on the
 [ Full Paper: [PDF](https://renjiezhao.github.io/files/NFCplus_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/NFCplus_slides_20min.pptx) ] [ [20 min Video](https://dl.acm.org/doi/abs/10.1145/3387514.3406219) ]
 
 * **M-Cube: A Millimeter-Wave Massive MIMO Software Radio**
+
 **Renjie Zhao**, TimothyWoodford, TengWei, Kun Qian and Xinyu Zhang
 
 ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2020
@@ -46,6 +48,7 @@ ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2
 [ Full Paper: [PDF](https://renjiezhao.github.io/files/MCube_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/MCube_slides_20min.pptx) ] [ [20 min Video](https://www.youtube.com/watch?v=NRooJM1UK3s&feature=youtu.be) ]
 
 * **OFDMA-EnabledWi-Fi Backscatter**
+
 **Renjie Zhao**, Fengyuan Zhu, Siyuan Peng, Yuda Feng, Xiaohua Tian, Hui Yu and Xinbing Wang
 
 ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2019
