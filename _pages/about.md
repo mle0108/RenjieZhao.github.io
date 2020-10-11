@@ -40,7 +40,7 @@ ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2
 (62 out of 384 submissions, acceptance ratio: 16%, **Best Paper Award**)  
 [ Full Paper: [PDF](https://renjiezhao.github.io/files/MCube_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/MCube_slides_20min.pptx) ] [ Video: [Link](https://www.youtube.com/watch?v=NRooJM1UK3s&feature=youtu.be) ]
 
-* **OFDMA-EnabledWi-Fi Backscatter**  
+* **OFDMA-Enabled Wi-Fi Backscatter**  
 **Renjie Zhao**, Fengyuan Zhu, Siyuan Peng, Yuda Feng, Xiaohua Tian, Hui Yu and Xinbing Wang  
 ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2019  
 (55 out of 290 submissions, acceptance ratio: 19%)  
