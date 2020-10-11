@@ -27,8 +27,9 @@ News:
 
 Publications:
 ======
+Note: ’*’ marks co-primary authors.  
 * **NFC+: Breaking NFC Networking Limits through Resonance Engineering**  
-**Renjie Zhao***, Purui Wang*, Yunfei Ma, Pengyu Zhang, Hongqiang Harry Liu, Xianshang Lin, Xinyu Zhang, Chenren Xu and Ming Zhang  
+**Renjie Zhao**\*, Purui Wang\*, Yunfei Ma, Pengyu Zhang, Hongqiang Harry Liu, Xianshang Lin, Xinyu Zhang, Chenren Xu and Ming Zhang  
 Annual conference of the ACM Special Interest Group on Data Communication on the applications, technologies, architectures, and protocols for computer communication (**SIGCOMM**), 2020  
 (54 out of 250 submissions, acceptance ratio: 22%)  
 [ Full Paper: [PDF](https://renjiezhao.github.io/files/NFCplus_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/NFCplus_slides_20min.pptx) ] [ Video: [Link](https://dl.acm.org/doi/abs/10.1145/3387514.3406219) ]
