@@ -15,6 +15,7 @@ I received my B.S degree from [Shanghai Jiao Tong University](http://en.sjtu.edu
 
 News:
 ======
+* 03/2021. M-Cube is invited to be published on ACM GetMobile.
 * 09/2020. M-Cube receives Best Paper Award of [MobiCom'20](https://sigmobile.org/mobicom/2020/) !
 * 09/2020. MobiCom'20 paper & demo: Give the presentation and demo for M-Cube. 
 * 09/2020. We are working on distributing M-Cube platforms to other research groups. Please visit [M-Cube website](http://m3.ucsd.edu/sdr/) for more details.
@@ -28,6 +29,11 @@ News:
 Publications:
 ======
 Note: ’*’ marks co-primary authors.  
+* **M-CUBE: A Millimeter-Wave Massive MIMO Software Radio**  
+**Renjie Zhao**, Timothy Woodford, Teng Wei, Kun Qian and Xinyu Zhang  
+GetMobile: Mobile Computing and Communications, Volume 25, Issue 1, March 2021, pp 30–33  
+[ Full Paper: [PDF](https://dl.acm.org/doi/10.1145/3471440.3471449) ]
+
 * **NFC+: Breaking NFC Networking Limits through Resonance Engineering**  
 **Renjie Zhao**\*, Purui Wang\*, Yunfei Ma, Pengyu Zhang, Hongqiang Harry Liu, Xianshang Lin, Xinyu Zhang, Chenren Xu and Ming Zhang  
 Annual conference of the ACM Special Interest Group on Data Communication on the applications, technologies, architectures, and protocols for computer communication (**SIGCOMM**), 2020  
@@ -35,7 +41,7 @@ Annual conference of the ACM Special Interest Group on Data Communication on the
 [ Full Paper: [PDF](https://renjiezhao.github.io/files/NFCplus_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/NFCplus_slides_20min.pptx) ] [ Video: [Link](https://dl.acm.org/doi/abs/10.1145/3387514.3406219) ]
 
 * **M-Cube: A Millimeter-Wave Massive MIMO Software Radio**  
-**Renjie Zhao**, TimothyWoodford, TengWei, Kun Qian and Xinyu Zhang  
+**Renjie Zhao**, Timothy Woodford, Teng Wei, Kun Qian and Xinyu Zhang  
 ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2020  
 (62 out of 384 submissions, acceptance ratio: 16%, **Best Paper Award**)  
 [ Full Paper: [PDF](https://renjiezhao.github.io/files/MCube_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/MCube_slides_20min.pptx) ] [ Video: [Link](https://www.youtube.com/watch?v=NRooJM1UK3s&feature=youtu.be) ]
