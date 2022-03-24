@@ -54,4 +54,4 @@ ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2
 
 CV:
 ======
-* [CV.pdf](https://renjiezhao.github.io/files/CV.pdf) (Last updated: 10/2020)
+* [CV.pdf](https://renjiezhao.github.io/files/CV.pdf) (Last updated: 3/2022)
