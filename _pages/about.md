@@ -26,22 +26,22 @@ News:
 * 08/2020. SIGCOMM'20 talk: Give the presentation for NFC+. The first virtual event. 
 * 05/2020. SIGCOMM'20 paper: NFC+, long range magnetic RFID that defeats blockage.
 * 11/2019. MobiCom'20 paper: M-Cube, low cost Millimeter-Wave Massive MIMO Software Radio.
-* 10/2019. MobiCom'19 talk: Give the presentation for OFDMA backscatter. The first attended conference. Los Cabos is a pretty nice place and have met with many outstanding researchers.
+* 10/2019. MobiCom'19 talk: Give the presentation for OFDMA backscatter. The first attended conference. Los Cabos is a nice place and have met with many outstanding researchers.
 * 10/2018. MobiCom'19 paper: OFDMA-backscatter high concurrency technique for backscattering. During undergraduate.
 * 09/2018. Begin to pursue Ph.D. at UC San Diego with Prof. Xinyu Zhang.
 
 Publications:
 ======
-Note: ’*’ marks co-primary authors.  
+Note: ‘*’ marks co-primary authors.  
 * **RF-Chord: Towards Deployable RFID Localization System for Logistic Networks**  
-Bo Liang, Purui Wang, **Renjie Zhao**, Pengyu Zhang, Xinyu Zhang, Hongqiang Harry Liu and Chenren Xu
-20th USENIX Symposium on Networked Systems Design and Implementation (**NSDI**), 2023
-(50 out of 272 submissions, acceptance ratio: 18.4\%)
+Bo Liang, Purui Wang, **Renjie Zhao**, Pengyu Zhang, Xinyu Zhang, Hongqiang Harry Liu and Chenren Xu  
+20th USENIX Symposium on Networked Systems Design and Implementation (**NSDI**), 2023  
+(50 out of 272 submissions, acceptance ratio: 18.4\%)  
 [ Full Paper: [PDF](https://arxiv.org/abs/2211.00272) ]
 
 * **M-CUBE: A Millimeter-Wave Massive MIMO Software Radio**  
 **Renjie Zhao**, Timothy Woodford, Teng Wei, Kun Qian and Xinyu Zhang  
-GetMobile: Mobile Computing and Communications, Volume 25, Issue 1, March 2021, pp 30–33  
+GetMobile: Mobile Computing and Communications, Volume 25, Issue 1, March 2021, pp 30-33  
 [ Full Paper: [PDF](https://dl.acm.org/doi/10.1145/3471440.3471449) ]
 
 * **NFC+: Breaking NFC Networking Limits through Resonance Engineering**  
