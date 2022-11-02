@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+red { color: red }
+yellow { color: yellow }
+</style>
+
 
 I am a fifth year Ph.D. candidate at [Electrical and Computer Engineering](http://www.ece.ucsd.edu/) Department in [UC San Diego](https://ucsd.edu), advised by Professor [Xinyu Zhang](http://xyzhang.ucsd.edu). My research interest lies in mobile computing and wireless networking.
 
@@ -39,12 +44,12 @@ Note: ‘*’ marks co-primary authors.
 Bo Liang, Purui Wang, **Renjie Zhao**, Pengyu Zhang, Xinyu Zhang, Hongqiang Harry Liu and Chenren Xu  
 20th USENIX Symposium on Networked Systems Design and Implementation (**NSDI**), 2023  
 (50 out of 272 submissions, acceptance ratio: 18.4\%)  
-[ Full Paper: [PDF](https://arxiv.org/abs/2211.00272) ]
+[ Full Paper: [PDF](https://renjiezhao.github.io/files/RFCHORD_paper.pdf) ]
 
-* **M-CUBE: A Millimeter-Wave Massive MIMO Software Radio**  
+* **M-CUBE: A Millimeter-Wave Massive MIMO Software Radio** <red>(Invited, Highlighted)</red> 
 **Renjie Zhao**, Timothy Woodford, Teng Wei, Kun Qian and Xinyu Zhang  
 GetMobile: Mobile Computing and Communications, Volume 25, Issue 1, March 2021, pp 30-33  
-[ Full Paper: [PDF](https://dl.acm.org/doi/10.1145/3471440.3471449) ]
+[ Full Paper: [PDF](https://renjiezhao.github.io/files/MCube_getmobile_paper.pdf) ]
 
 * **NFC+: Breaking NFC Networking Limits through Resonance Engineering**  
 **Renjie Zhao**\*, Purui Wang\*, Yunfei Ma, Pengyu Zhang, Hongqiang Harry Liu, Xianshang Lin, Xinyu Zhang, Chenren Xu and Ming Zhang  
@@ -52,10 +57,10 @@ Annual conference of the ACM Special Interest Group on Data Communication on the
 (54 out of 250 submissions, acceptance ratio: 22%)  
 [ Full Paper: [PDF](https://renjiezhao.github.io/files/NFCplus_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/NFCplus_slides_20min.pptx) ] [ Video: [Link](https://dl.acm.org/doi/abs/10.1145/3387514.3406219) ]
 
-* **M-Cube: A Millimeter-Wave Massive MIMO Software Radio**  
+* **M-Cube: A Millimeter-Wave Massive MIMO Software Radio** <red>(Best Paper Award, 2/384)</red> 
 **Renjie Zhao**, Timothy Woodford, Teng Wei, Kun Qian and Xinyu Zhang  
 ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2020  
-(62 out of 384 submissions, acceptance ratio: 16%, **Best Paper Award**)  
+(62 out of 384 submissions, acceptance ratio: 16%)  
 [ Full Paper: [PDF](https://renjiezhao.github.io/files/MCube_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/MCube_slides_20min.pptx) ] [ Video: [Link](https://www.youtube.com/watch?v=NRooJM1UK3s&feature=youtu.be) ]
 
 * **OFDMA-Enabled Wi-Fi Backscatter**  
