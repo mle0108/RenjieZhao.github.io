@@ -32,7 +32,7 @@ News:
 * 09/2018. Begin to pursue Ph.D. at UC San Diego with Prof. Xinyu Zhang.
 --->
 
-Publications:
+Selected Publications:
 ======
 Note: ‘*’ marks co-primary authors.  
 * **RF-Chord: Towards Deployable RFID Localization System for Logistic Networks**  
