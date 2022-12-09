@@ -20,9 +20,10 @@ I received my B.S degree from [Shanghai Jiao Tong University](http://en.sjtu.edu
 
 News:
 ======
+* 12/2022. NSDI'23 paper accepted: SlimWi-Fi, Asymmetric Communication for Ultra-Low-Power IoT Radio.
 * 10/2022. More than 16 groups are using M-Cube platforms for their research projects.
 * 07/2022. MobiSys'22 demo: in person demo for the software defined radar demo with M-Cube.
-* 07/2022. NSDI'23 paper: RF-CHORD, robust RFID localization system for practical logistic network.
+* 07/2022. NSDI'23 paper: RF-CHORD, Robust RFID Localization System for Practical Logistic Network.
 * 06/2021. Intern at MSR network research group.
 * 03/2021. M-Cube is invited by ACM GetMobile.
 * 09/2020. M-Cube receives Best Paper Award of [MobiCom'20](https://sigmobile.org/mobicom/2020/) !
