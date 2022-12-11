@@ -36,9 +36,8 @@ News:
 * 10/2019. MobiCom'19 talk: Give the presentation for OFDMA backscatter. The first attended conference, very memorable. Los Cabos is a nice place and have met with many outstanding researchers.
 * 09/2019. Intern at Alibaba Group.
 * 10/2018. MobiCom'19 paper: OFDMA-backscatter high concurrency technique for backscattering. During undergraduate.
-<!---
 * 09/2018. Begin to pursue Ph.D. at UC San Diego with Prof. Xinyu Zhang.
---->
+
 
 Selected Publications:
 ======
@@ -46,7 +45,7 @@ Note: ‘*’ marks co-primary authors.
 * **SlimWiFi: Ultra-Low-Power IoT Radio Architecture Enabled by Asymmetric Communication**
 **Renjie Zhao**, Kejia Wang, Kai Zheng, Xinyu Zhang, and Leung Vincent
 20th USENIX Symposium on Networked Systems Design and Implementation (**NSDI**), 2023
-(46 out of 288 submissions, acceptance ratio: 16.0%)
+(46 out of 288 submissions, acceptance ratio: 16.0%)  
 [ Full Paper: available after camera ready]
 
 * **RF-Chord: Towards Deployable RFID Localization System for Logistic Networks**  
