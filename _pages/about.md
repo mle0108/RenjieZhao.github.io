@@ -20,7 +20,7 @@ I received my B.S degree from [Shanghai Jiao Tong University](http://en.sjtu.edu
 
 News:
 ======
-* 12/2022. NSDI'23 paper accepted: SlimWi-Fi, Asymmetric Communication for Ultra-Low-Power IoT Radio.
+* 12/2022. NSDI'23 paper accepted: SlimWiFi, Asymmetric Communication for Ultra-Low-Power IoT Radio.
 * 10/2022. More than 16 groups are using M-Cube platforms for their research projects.
 * 07/2022. MobiSys'22 demo: in person demo for the software defined radar demo with M-Cube.
 * 07/2022. NSDI'23 paper: RF-CHORD, Robust RFID Localization System for Practical Logistic Network.
@@ -41,6 +41,12 @@ News:
 Selected Publications:
 ======
 Note: ‘*’ marks co-primary authors.  
+* **SlimWiFi: Ultra-Low-Power IoT Radio Architecture Enabled by Asymmetric Communication**
+**Renjie Zhao**, Kejia Wang, Kai Zheng, Xinyu Zhang, and Leung Vincent
+20th USENIX Symposium on Networked Systems Design and Implementation (**NSDI**), 2023
+(46 out of 288 submissions, acceptance ratio: 16.0%)
+[ Full Paper: available after camera ready]
+
 * **RF-Chord: Towards Deployable RFID Localization System for Logistic Networks**  
 Bo Liang, Purui Wang, **Renjie Zhao**, Pengyu Zhang, Xinyu Zhang, Hongqiang Harry Liu and Chenren Xu  
 20th USENIX Symposium on Networked Systems Design and Implementation (**NSDI**), 2023  
@@ -72,4 +78,4 @@ ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2
 
 CV:
 ======
-* [CV.pdf](https://renjiezhao.github.io/files/CV.pdf) (Last updated: 7/2022)
+* [CV.pdf](https://renjiezhao.github.io/files/CV.pdf) (Last updated: 12/2022)
