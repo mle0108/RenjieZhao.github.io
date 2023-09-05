@@ -13,13 +13,24 @@ yellow { color: yellow }
 </style>
 
 
-I am a fifth year Ph.D. candidate at [Electrical and Computer Engineering](http://www.ece.ucsd.edu/) Department in [UC San Diego](https://ucsd.edu), advised by Professor [Xinyu Zhang](http://xyzhang.ucsd.edu). My research interest lies in mobile computing and wireless networking.
+I am an Assistant Professor in Computer Science at Johns Hopkins University. I'm looking for 
 
-I received my B.S degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in 2018, where I worked on Backscatter Communications with Professor [Xiaohua Tian](http://iiot.sjtu.edu.cn/xtian/) and Professor [Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/). 
+My research interests are centered around wireless networking and mobile computing, with a particular focus on next-generation wireless network architectures (5G millimeter-wave, 6G joint communication and sensing, Internet of Things), novel radio hardware and software design (software-defined radio, wireless brain interfaces, low-power ultra-wide-band) and ubiquitous communication and sensing systems (smart homes, virtual/augmented reality, localization, ultra-reliable RFID for supply chains).
+
+I have published in several top conferences, including ACM SIGCOMM, MobiCom, and USNIEX NSDI. In recognition of my work on massive MIMO millimeter-wave software radio, I was awarded the Best Paper Award at ACM MobiCom 2020. My work on this project has also been highlighted by ACM GetMobile, the top pick of the ACM SIGMOBILE area.
+
+I received the M.S. degree (2020) and Ph.D. degree (2023) at [Electrical and Computer Engineering](http://www.ece.ucsd.edu/) Department in [UC San Diego](https://ucsd.edu), advised by Professor [Xinyu Zhang](http://xyzhang.ucsd.edu).
+I received my B.E. degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in 2018, where I worked on Backscatter Communications with Professor [Xiaohua Tian](http://iiot.sjtu.edu.cn/xtian/) and Professor [Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/). 
 
 
 News:
 ======
+* I am looking for self-motivated students on research projects in wireless networking and mobile computing. Please check my past papers to get a general understanding of my research style. A new page of "Notes to the Prospective Students" will be release soon. 
+* I plan to fly to China and visit some universities in Oct/Nov this year. Feel free to contact me if you want to talk to me in person.
+* 08/2023. Organized M-Cube User Workshop. Check [M-Cube website](http://m3.ucsd.edu/sdr/) for updates.
+* 08/2023. Officially graduated and start as an assistant professor at JHU.
+* 06/2023. Pass the final defense at UC San Diego! 
+* 12/2022. On job market (Faculty/Research positions).
 * 12/2022. NSDI'23 paper accepted: SlimWiFi, Asymmetric Communication for Ultra-Low-Power IoT Radio.
 * 10/2022. More than 16 groups are using M-Cube platforms for their research projects.
 * 07/2022. MobiSys'22 demo: in person demo for the software defined radar demo with M-Cube.
@@ -42,11 +53,16 @@ News:
 Selected Publications:
 ======
 Note: ‘*’ marks co-primary authors.  
+* **Enabling OFDMA in Wi-Fi Backscatter**  
+Fengyuan Zhu, **Renjie Zhao**, Bingbing Wang, Xinbing Wang, Xinping Guan, Chenghu Zhou, and Xiaohua Tian  
+IEEE/ACM Transactions on Networking, 2023
+[[Link](https://ieeexplore.ieee.org/abstract/document/10176347)]
+
 * **SlimWiFi: Ultra-Low-Power IoT Radio Architecture Enabled by Asymmetric Communication**
 **Renjie Zhao**, Kejia Wang, Kai Zheng, Xinyu Zhang, and Leung Vincent
 20th USENIX Symposium on Networked Systems Design and Implementation (**NSDI**), 2023
 (46 out of 288 submissions, acceptance ratio: 16.0%)  
-[ Full Paper: available after camera ready]
+[ Full Paper: [PDF](https://renjiezhao.github.io/files/SlimWiFi_paper.pdf)]
 
 * **RF-Chord: Towards Deployable RFID Localization System for Logistic Networks**  
 Bo Liang, Purui Wang, **Renjie Zhao**, Pengyu Zhang, Xinyu Zhang, Hongqiang Harry Liu and Chenren Xu  
