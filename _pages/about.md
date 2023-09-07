@@ -13,7 +13,7 @@ yellow { color: yellow }
 </style>
 
 
-I am an Assistant Professor in Computer Science at Johns Hopkins University. I'm looking for 
+I am an Assistant Professor in Computer Science at Johns Hopkins University. I am looking for self-motivated students on research projects in wireless networking and mobile computing. Please check my past papers to get a general understanding of my research style. A new page of "Notes to the Prospective Students" will be release soon. 
 
 My research interests are centered around wireless networking and mobile computing, with a particular focus on next-generation wireless network architectures (5G millimeter-wave, 6G joint communication and sensing, Internet of Things), novel radio hardware and software design (software-defined radio, wireless brain interfaces, low-power ultra-wide-band) and ubiquitous communication and sensing systems (smart homes, virtual/augmented reality, localization, ultra-reliable RFID for supply chains).
 
@@ -25,7 +25,6 @@ I received my B.E. degree from [Shanghai Jiao Tong University](http://en.sjtu.ed
 
 News:
 ======
-* I am looking for self-motivated students on research projects in wireless networking and mobile computing. Please check my past papers to get a general understanding of my research style. A new page of "Notes to the Prospective Students" will be release soon. 
 * I plan to fly to China and visit some universities in Oct/Nov this year. Feel free to contact me if you want to talk to me in person.
 * 08/2023. Organized M-Cube User Workshop. Check [M-Cube website](http://m3.ucsd.edu/sdr/) for updates.
 * 08/2023. Officially graduated and start as an assistant professor at JHU.
