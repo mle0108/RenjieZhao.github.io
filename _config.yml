@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Renjie Zhao's personal page"
 title_separator          : "-"
 name                     : &name "Renjie Zhao"
-description              : &description "Ph.D. student of UC San Diego"
+description              : &description "Assistant professor at JHU"
 url                      : https://renjiezhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RenjieZhao.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Renjie Zhao"
-  avatar           : "RenjieZhao.JPG"
+  avatar           : "RenjieZhao.jpg"
   bio              : "Assistant Professor"
   location         : "Malone Hall 231"
   employer         : "Johns Hopkins University"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "renjie-zhao-676b76139"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
