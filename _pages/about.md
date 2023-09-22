@@ -56,20 +56,20 @@ I received my B.E. degree from [Shanghai Jiao Tong University](http://en.sjtu.ed
 Note: ‘*’ marks co-primary authors.  
 * **Enabling OFDMA in Wi-Fi Backscatter**  
 Fengyuan Zhu, **Renjie Zhao**, Bingbing Wang, Xinbing Wang, Xinping Guan, Chenghu Zhou, and Xiaohua Tian  
-IEEE/ACM Transactions on Networking, 2023
-[[Link](https://ieeexplore.ieee.org/abstract/document/10176347)]
+IEEE/ACM Transactions on Networking, 2023  
+[ Paper [Link](https://ieeexplore.ieee.org/abstract/document/10176347)]
 
-* **SlimWiFi: Ultra-Low-Power IoT Radio Architecture Enabled by Asymmetric Communication**
+* **SlimWiFi: Ultra-Low-Power IoT Radio Architecture Enabled by Asymmetric Communication**  
 **Renjie Zhao**, Kejia Wang, Kai Zheng, Xinyu Zhang, and Leung Vincent
 20th USENIX Symposium on Networked Systems Design and Implementation (**NSDI**), 2023
 (46 out of 288 submissions, acceptance ratio: 16.0%)  
-[ Full Paper: [PDF](https://renjiezhao.github.io/files/SlimWiFi_paper.pdf)]
+[ Full Paper: [PDF](https://renjiezhao.github.io/files/SlimWiFi_paper.pdf) ] [ Slides and video: [NSDI'23](https://www.usenix.org/conference/nsdi23/presentation/zhao-renjie) ]
 
 * **RF-Chord: Towards Deployable RFID Localization System for Logistic Networks**  
 Bo Liang, Purui Wang, **Renjie Zhao**, Pengyu Zhang, Xinyu Zhang, Hongqiang Harry Liu and Chenren Xu  
 20th USENIX Symposium on Networked Systems Design and Implementation (**NSDI**), 2023  
 (50 out of 272 submissions, acceptance ratio: 18.4%)  
-[ Full Paper: [PDF](https://renjiezhao.github.io/files/RFCHORD_paper.pdf) ]
+[ Full Paper: [PDF](https://renjiezhao.github.io/files/RFCHORD_paper.pdf) ] [ Slides and video: [NSDI'23](https://www.usenix.org/conference/nsdi23/presentation/liang-bo) ]
 
 * **M-CUBE: A Millimeter-Wave Massive MIMO Software Radio** <red>(Invited, Highlighted)</red> 
 **Renjie Zhao**, Timothy Woodford, Teng Wei, Kun Qian and Xinyu Zhang  
