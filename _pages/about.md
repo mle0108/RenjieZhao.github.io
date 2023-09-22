@@ -13,7 +13,7 @@ yellow { color: yellow }
 </style>
 
 
-I am an Assistant Professor in Computer Science at Johns Hopkins University. I am looking for self-motivated students on research projects in wireless networking and mobile computing. Please check my past papers to get a general understanding of my research style. A new page of "Notes to the Prospective Students" will be release soon. 
+I am an Assistant Professor in Computer Science at Johns Hopkins University. I am looking for self-motivated students on research projects in wireless networking and mobile computing. Please check my past papers to get a general understanding of my research style. A new page of "Notes to the Prospective Students" will be released soon. 
 
 My research interests are centered around wireless networking and mobile computing, with a particular focus on next-generation wireless network architectures (5G millimeter-wave, 6G joint communication and sensing, Internet of Things), novel radio hardware and software design (software-defined radio, wireless brain interfaces, low-power ultra-wide-band) and ubiquitous communication and sensing systems (smart homes, virtual/augmented reality, localization, ultra-reliable RFID for supply chains).
 
@@ -23,17 +23,19 @@ I received the M.S. degree (2020) and Ph.D. degree (2023) at [Electrical and Com
 I received my B.E. degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in 2018, where I worked on Backscatter Communications with Professor [Xiaohua Tian](http://iiot.sjtu.edu.cn/xtian/) and Professor [Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/). 
 
 
-News:
+# News:
 ======
 * I plan to fly to China and visit some universities in Oct/Nov this year. Feel free to contact me if you want to talk to me in person.
 * 08/2023. Organized M-Cube User Workshop. Check [M-Cube website](http://m3.ucsd.edu/sdr/) for updates.
 * 08/2023. Officially graduated and start as an assistant professor at JHU.
 * 06/2023. Pass the final defense at UC San Diego! 
+* 04/2023. NSDI'23 talk: Presented SlimWiFi.
 * 12/2022. On job market (Faculty/Research positions).
-* 12/2022. NSDI'23 paper accepted: SlimWiFi, Asymmetric Communication for Ultra-Low-Power IoT Radio.
+* 12/2022. NSDI'23 paper: SlimWiFi, Asymmetric Communication for Ultra-Low-Power IoT Radio.
+* 11/2022. Sensys'22 posters: Ultra-Wideband Backscatter and RF-Chord.
 * 10/2022. More than 16 groups are using M-Cube platforms for their research projects.
 * 07/2022. MobiSys'22 demo: in person demo for the software defined radar demo with M-Cube.
-* 07/2022. NSDI'23 paper: RF-CHORD, Robust RFID Localization System for Practical Logistic Network.
+* 07/2022. NSDI'23 paper: RF-Chord, Robust RFID Localization System for Practical Logistic Network.
 * 06/2021. Intern at MSR networking research group.
 * 03/2021. M-Cube is invited by ACM GetMobile.
 * 09/2020. M-Cube receives Best Paper Award of [MobiCom'20](https://sigmobile.org/mobicom/2020/) !
@@ -49,7 +51,7 @@ News:
 * 09/2018. Begin to pursue Ph.D. at UC San Diego with Prof. Xinyu Zhang.
 
 
-Selected Publications:
+# Selected Publications:
 ======
 Note: ‘*’ marks co-primary authors.  
 * **Enabling OFDMA in Wi-Fi Backscatter**  
@@ -66,7 +68,7 @@ IEEE/ACM Transactions on Networking, 2023
 * **RF-Chord: Towards Deployable RFID Localization System for Logistic Networks**  
 Bo Liang, Purui Wang, **Renjie Zhao**, Pengyu Zhang, Xinyu Zhang, Hongqiang Harry Liu and Chenren Xu  
 20th USENIX Symposium on Networked Systems Design and Implementation (**NSDI**), 2023  
-(50 out of 272 submissions, acceptance ratio: 18.4\%)  
+(50 out of 272 submissions, acceptance ratio: 18.4%)  
 [ Full Paper: [PDF](https://renjiezhao.github.io/files/RFCHORD_paper.pdf) ]
 
 * **M-CUBE: A Millimeter-Wave Massive MIMO Software Radio** <red>(Invited, Highlighted)</red> 
@@ -92,6 +94,6 @@ ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2
 (55 out of 290 submissions, acceptance ratio: 19%)  
 [ Full Paper: [PDF](https://renjiezhao.github.io/files/OFDMA_BS_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/OFDMA_BS_slides.pptx) ] [ Video: [Link](https://www.youtube.com/watch?v=UsyeI3U1bqo) ]
 
-CV:
+# CV:
 ======
 * [CV.pdf](https://renjiezhao.github.io/files/CV.pdf) (Last updated: 09/2023)
