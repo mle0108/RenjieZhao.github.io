@@ -23,8 +23,7 @@ I received the M.S. degree (2020) and Ph.D. degree (2023) at [Electrical and Com
 I received my B.E. degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in 2018, where I worked on Backscatter Communications with Professor [Xiaohua Tian](http://iiot.sjtu.edu.cn/xtian/) and Professor [Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/). 
 
 
-# News:
-======
+# News:  
 * I plan to fly to China and visit some universities in Oct/Nov this year. Feel free to contact me if you want to talk to me in person.
 * 08/2023. Organized M-Cube User Workshop. Check [M-Cube website](http://m3.ucsd.edu/sdr/) for updates.
 * 08/2023. Officially graduated and start as an assistant professor at JHU.
@@ -51,8 +50,7 @@ I received my B.E. degree from [Shanghai Jiao Tong University](http://en.sjtu.ed
 * 09/2018. Begin to pursue Ph.D. at UC San Diego with Prof. Xinyu Zhang.
 
 
-# Selected Publications:
-======
+# Selected Publications:  
 Note: ‘*’ marks co-primary authors.  
 * **Enabling OFDMA in Wi-Fi Backscatter**  
 Fengyuan Zhu, **Renjie Zhao**, Bingbing Wang, Xinbing Wang, Xinping Guan, Chenghu Zhou, and Xiaohua Tian  
@@ -94,6 +92,5 @@ ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2
 (55 out of 290 submissions, acceptance ratio: 19%)  
 [ Full Paper: [PDF](https://renjiezhao.github.io/files/OFDMA_BS_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/OFDMA_BS_slides.pptx) ] [ Video: [Link](https://www.youtube.com/watch?v=UsyeI3U1bqo) ]
 
-# CV:
-======
+# CV:  
 * [CV.pdf](https://renjiezhao.github.io/files/CV.pdf) (Last updated: 09/2023)
