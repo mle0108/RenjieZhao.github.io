@@ -24,7 +24,7 @@ I received my B.E. degree from [Shanghai Jiao Tong University](http://en.sjtu.ed
 
 
 # News:  
-* I plan to fly to China and visit some universities in Oct/Nov this year. Feel free to contact me if you want to talk to me in person.
+* I plan to fly to China and visit some universities in Nov this year. Feel free to contact me if you want to talk to me in person.
 * 08/2023. Organized M-Cube User Workshop. Check [M-Cube website](http://m3.ucsd.edu/sdr/) for updates.
 * 08/2023. Officially graduated and start as an assistant professor at JHU.
 * 06/2023. Pass the final defense at UC San Diego! 
