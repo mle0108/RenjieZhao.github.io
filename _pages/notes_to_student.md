@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Notes to the Prospective Students"
-permalink: /
+permalink: /note_to_students
 author_profile: true
 ---
 
