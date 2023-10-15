@@ -1,26 +1,29 @@
 ---
 layout: archive
 title: "Notes to the Prospective Students"
-permalink: /note_to_students
+permalink: /notes_to_students
 author_profile: true
 ---
 
-Our lab has multiple openings starting from Fall 2024 and I am looking for students in the areas of wireless networking and mobile computing. Students with CS or EE backgrounds are welcome to apply. 
-Candidates with the following background is a big plus:
+Do not hesitate to contact me through email. I check my email box very frequently.  
 
-There are two well-defined topic
+Our lab has multiple openings starting from Fall 2024 and I am looking for students in the areas of wireless networking and mobile computing. Students with CS or EE backgrounds are welcome to apply. (I am recruiting students from the CS department right now and am in the process of getting a secondary appointment at the ECE department to recruit students directly from the ECE department. In the interim, ECE department students can be recruited through co-advising.)  
 
-Experience on designing 
+Our group's research is interdisciplinary, and the candidates are expected to have a solid background in network/mobile systems, a strong motivation towards studying multidisciplinary knowledge, and be willing to commit to years of concentrated work.  
 
-Knowledge on 
+Candidates with the following experience (Not all-inclusive) are a plus:  
+(1) Networking embedded systems hardware designing and programming. (For example, Wi-Fi router hacking, wireless IoT, etc.)  
+(2) Experience in RF hardware design (RF circuits, antenna design, etc.).  
+(3) Signal processing for communication and wireless sensing (with FPGA, SDR, Radar, etc.)  
+(4) Multi-modal sensor fusion for mobile applications.  
+(5) Mobile device programming for mobile networking and sensing (acoustic, Wi-Fi, BLE, UWB, IMU, etc.).  
+(6) Designing and implementing machine learning models to solve problems in wireless networking and ubiquitous computing.  
 
-However, other 
+Check the application information and link to the application portal at [link]{https://engineering.jhu.edu/admissions/graduate-admissions/full-time-programs/how-to-apply/application-deadlines/}.  
+Please note that the CS Department application deadline is **December 15**. The ECE Department application deadline is **December 22**.  
 
-Note that 
+If you are a JHU student and looking for research opportunities, don't hesitate to ping me to schedule a meeting. I also suggest you take my courses. I will teach 601.716 Advanced Topics In Internet of Things in the 2024 Spring and 601.414/614 Computer Networks in the 2024 Fall.  
 
-JHU has several new faculties forming a large networking group which covers multiple areas (computer network, measurement, network security, etc.). Please also check opportunities from other faculties, such as [Alex Marder]{https://alexmarder.github.io/}, [Krishan Sabnani]{https://www.cs.jhu.edu/faculty/krishan-sabnani-2/}, [Soudeh Ghorbani]{http://soudeh.net/#home}, [Yinzhi Cao]{http://yinzhicao.org/}, etc.
+If you plan to visit our team through a J-1 visa, please note that the internal processing time is about 2-3 weeks after the department receives the completed application, and visa processing may take 3-4 months. So please contact me well in advance.  
 
-Check the application information and link to the application portal at [link]{https://engineering.jhu.edu/admissions/graduate-admissions/full-time-programs/how-to-apply/application-deadlines/}.
-Computer Science Department application deadline: December 15
-
-If you are a JHU student and looking for research opportunity, don't hesitate to ping me to schedule a meeting. Any other visit is also welcomed.
+JHU has several new faculties forming a large networking group that covers multiple areas (computer network, measurement, network security, etc.). Please also check opportunities from other faculties, such as [Alex Marder]{https://alexmarder.github.io/}, [Krishan Sabnani]{https://www.cs.jhu.edu/faculty/krishan-sabnani-2/}, [Soudeh Ghorbani]{http://soudeh.net/#home}, [Yinzhi Cao]{http://yinzhicao.org/}, etc.  
