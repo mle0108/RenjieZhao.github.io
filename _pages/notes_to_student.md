@@ -26,4 +26,4 @@ If you are a JHU student and looking for research opportunities, don't hesitate 
 
 If you plan to visit our team through a J-1 visa, please note that the internal processing time is about 2-3 weeks after the department receives the completed application, and visa processing may take 3-4 months. So please contact me well in advance.  
 
-JHU has several new faculties forming a large networking group that covers multiple areas (computer network, measurement, network security, etc.). Please also check opportunities from other faculties, such as [Alex Marder]{https://alexmarder.github.io/}, [Krishan Sabnani]{https://www.cs.jhu.edu/faculty/krishan-sabnani-2/}, [Soudeh Ghorbani]{http://soudeh.net/#home}, [Yinzhi Cao]{http://yinzhicao.org/}, etc.  
+JHU has several new faculties forming a large networking group that covers multiple areas (computer network, measurement, network security, etc.). Please also check opportunities from other faculties, such as [Alex Marder](https://alexmarder.github.io/), [Krishan Sabnani](https://www.cs.jhu.edu/faculty/krishan-sabnani-2/), [Soudeh Ghorbani](http://soudeh.net/#home), [Yinzhi Cao](http://yinzhicao.org/), etc.  
