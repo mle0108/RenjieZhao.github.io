@@ -13,7 +13,7 @@ yellow { color: yellow }
 </style>
 
 
-I am an Assistant Professor in Computer Science at Johns Hopkins University. I am looking for self-motivated students on research projects in wireless networking and mobile computing. Please check my past papers to get a general understanding of my research style and check [Notes to the Prospective Students](https://renjiezhao.github.io/notes_to_students). 
+I am an Assistant Professor in [Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). I am looking for self-motivated students on research projects in wireless networking and mobile computing. Please check my past papers to get a general understanding of my research style and check [Notes to the Prospective Students](https://renjiezhao.github.io/notes_to_students). 
 
 My research interests are centered around wireless networking and mobile computing, with a particular focus on next-generation wireless network architectures (5G millimeter-wave, 6G joint communication and sensing, Internet of Things), novel radio hardware and software design (software-defined radio, wireless brain interfaces, low-power ultra-wide-band) and ubiquitous communication and sensing systems (smart homes, virtual/augmented reality, localization, ultra-reliable RFID for supply chains).
 
