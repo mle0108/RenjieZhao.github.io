@@ -19,7 +19,7 @@ Candidates with the following experience (Not all-inclusive) are a plus:
 (5) Mobile device programming for mobile networking and sensing (acoustic, Wi-Fi, BLE, UWB, IMU, etc.).  
 (6) Designing and implementing machine learning models to solve problems in wireless networking and ubiquitous computing.  
 
-Check the application information and link to the application portal at [link]{https://engineering.jhu.edu/admissions/graduate-admissions/full-time-programs/how-to-apply/application-deadlines/}.  
+Check the application information and link to the application portal at [link](https://engineering.jhu.edu/admissions/graduate-admissions/full-time-programs/how-to-apply/application-deadlines/).  
 Please note that the CS Department application deadline is **December 15**. The ECE Department application deadline is **December 22**.  
 
 If you are a JHU student and looking for research opportunities, don't hesitate to ping me to schedule a meeting. I also suggest you take my courses. I will teach 601.716 Advanced Topics In Internet of Things in the 2024 Spring and 601.414/614 Computer Networks in the 2024 Fall.  
