@@ -93,4 +93,4 @@ ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2
 [ Full Paper: [PDF](https://renjiezhao.github.io/files/OFDMA_BS_paper.pdf) ] [ Slides: [PPTX](https://renjiezhao.github.io/files/OFDMA_BS_slides.pptx) ] [ Video: [Link](https://www.youtube.com/watch?v=UsyeI3U1bqo) ]
 
 # CV:  
-* [CV.pdf](https://renjiezhao.github.io/files/CV.pdf) (Last updated: 09/2023)
+* [CV.pdf](https://renjiezhao.github.io/files/CV.pdf) (Last updated: 03/2024)
