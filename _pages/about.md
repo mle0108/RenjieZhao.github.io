@@ -24,7 +24,9 @@ I received my B.E. degree from [Shanghai Jiao Tong University](http://en.sjtu.ed
 
 
 # News:  
-* I will fly to China and visit some universities since Nov. 18th (first stop at SJTU), Nov. 27th to Dec. 1st in Beijing (28th at THU, 29th at PKU), Dec. 4th to 6th in Nanjing (5th at NJU), 7th at USTC, 8th at HUST, 9th at NEU, 11th to 13th in Zhejiang (12th at ZJU), 14th to 15th back to Shanghai (TBD).  Feel free to contact me if you want to talk to me in person.
+* 04/2024. Invited to serve on [NSDI'25](https://www.usenix.org/conference/nsdi25) TPC. Please consider submitting!
+<--* I will fly to China and visit some universities since Nov. 18th (first stop at SJTU), Nov. 27th to Dec. 1st in Beijing (28th at THU, 29th at PKU), Dec. 4th to 6th in Nanjing (5th at NJU), 7th at USTC, 8th at HUST, 9th at NEU, 11th to 13th in Zhejiang (12th at ZJU), 14th to 15th back to Shanghai (TBD).  Feel free to contact me if you want to talk to me in person.-->
+* 08/2023. Invited to serve on [HotMobile'24](http://www.hotmobile.org/2024/) TPC. Please consider submitting!
 * 08/2023. Organized M-Cube User Workshop. Check [M-Cube website](http://m3.ucsd.edu/sdr/) for updates.
 * 08/2023. Officially graduated and start as an assistant professor at JHU.
 * 06/2023. Pass the final defense at UC San Diego! 
