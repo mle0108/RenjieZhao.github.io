@@ -3,6 +3,9 @@ title: "Team"
 layout: archive
 permalink: /team
 # author_profile: true
+redirect_from: 
+  - /team/
+  - /team.html
 ---
 
 # Ph.D. students:  

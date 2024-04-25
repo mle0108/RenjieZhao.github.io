@@ -30,7 +30,7 @@ I received my B.E. degree from [Shanghai Jiao Tong University](http://en.sjtu.ed
 * 08/2023. Invited to serve on [HotMobile'24](http://www.hotmobile.org/2024/) TPC. Please consider submitting!
 * 08/2023. Organized M-Cube User Workshop. Check [M-Cube website](http://m3.ucsd.edu/sdr/) for updates.
 * 08/2023. Officially graduated and start as an assistant professor at JHU.
-* 06/2023. Pass the final defense at UC San Diego! 
+* 06/2023. Pass the final defense at UC San Diego!
 * 04/2023. NSDI'23 talk: Presented SlimWiFi.
 [More](https://renjiezhao.github.io/news_archive)
 
