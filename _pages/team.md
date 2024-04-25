@@ -1,11 +1,10 @@
 ---
 title: "Team"
 layout: archive
-permalink: /team
+permalink: /team/
 # author_profile: true
 redirect_from: 
-  - /team/
-  - /team.html
+  - /team
 ---
 
 # Ph.D. students:  
