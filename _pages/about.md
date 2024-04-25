@@ -34,6 +34,10 @@ I received my B.E. degree from [Shanghai Jiao Tong University](http://en.sjtu.ed
 * 04/2023. NSDI'23 talk: Presented SlimWiFi.
 [More](https://renjiezhao.github.io/news_archive)
 
+# Service:
+* TPC: NSDI'25, HotMobile'24
+* Reviewer of IEEE/ACM Transactions on Networking, ACM Transactions on Internet of Things, IEEE Trans-
+actions on Wireless Communications, ACM Transactions on Sensor Networks, IEEE Internet Computing
 
 
 # CV:  
