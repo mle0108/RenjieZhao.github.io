@@ -1,8 +1,8 @@
 ---
-title: "Team"
 layout: archive
+title: "Team"
 permalink: /team/
-# author_profile: true
+author_profile: true
 ---
 
 # Ph.D. students:  
