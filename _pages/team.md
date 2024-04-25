@@ -3,8 +3,6 @@ title: "Team"
 layout: archive
 permalink: /team/
 # author_profile: true
-redirect_from: 
-  - /team
 ---
 
 # Ph.D. students:  
