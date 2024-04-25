@@ -13,7 +13,7 @@ yellow { color: yellow }
 </style>
 
 
-I am an Assistant Professor in [Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). I am looking for self-motivated students on research projects in wireless networking and mobile computing. Please check my past papers to get a general understanding of my research style and check [Notes to the Prospective Students](https://renjiezhao.github.io/notes_to_students). 
+I am an Assistant Professor in the [Department of Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). I am looking for self-motivated students on research projects in wireless networking and mobile computing. Please check my past papers to get a general understanding of my research style and check [Notes to the Prospective Students](https://renjiezhao.github.io/notes_to_students). 
 
 My research interests are centered around wireless networking and mobile computing, with a particular focus on next-generation wireless network architectures (5G millimeter-wave, 6G joint communication and sensing, Internet of Things), novel radio hardware and software design (software-defined radio, wireless brain interfaces, low-power ultra-wide-band) and ubiquitous communication and sensing systems (smart homes, virtual/augmented reality, localization, ultra-reliable RFID for supply chains).
 
@@ -24,6 +24,7 @@ I received my B.E. degree from [Shanghai Jiao Tong University](http://en.sjtu.ed
 
 
 # News:  
+* 04/2024. MobiSys'24 paper: HybRadar, mmWave RADAR system with hybrid beamforming array.
 * 04/2024. Invited to serve on [NSDI'25](https://www.usenix.org/conference/nsdi25) TPC. Please consider submitting!
 <--* I will fly to China and visit some universities since Nov. 18th (first stop at SJTU), Nov. 27th to Dec. 1st in Beijing (28th at THU, 29th at PKU), Dec. 4th to 6th in Nanjing (5th at NJU), 7th at USTC, 8th at HUST, 9th at NEU, 11th to 13th in Zhejiang (12th at ZJU), 14th to 15th back to Shanghai (TBD).  Feel free to contact me if you want to talk to me in person.-->
 * 08/2023. Invited to serve on [HotMobile'24](http://www.hotmobile.org/2024/) TPC. Please consider submitting!
