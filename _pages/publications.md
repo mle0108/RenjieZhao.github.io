@@ -11,7 +11,7 @@ author_profile: true
 
 Note: ‘*’ marks co-primary authors.  
 
-* **Enhancing mmWaveRadar Sensing Using a Phased-MIMO Architecture**  
+* **Enhancing mmWave Radar Sensing Using a Phased-MIMO Architecture**  
 Kai Zheng, Wuqiong Zhao, Timothy Woodford, **Renjie Zhao**, Xinyu Zhang, and Yingbo Hua  
 22nd ACM International Conference on Mobile Systems, Applications, and Services (**MobiSys**), 2024  
 (43 out of 263 submissions, acceptance ratio: 16.3%)  
